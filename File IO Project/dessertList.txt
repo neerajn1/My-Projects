@@ -1,0 +1,8 @@
+Chocolate Mousse,350,High,true
+Fruit Tart,220,Medium,false
+Lemon Sorbet,150,Low,true
+Caramel Brownie,400,High,true
+Vanilla Cheesecake,265,High,true
+Glazed Donut,269,High,false
+Chocolate Ice Cream Pint,143,Medium,true
+Vanilla Buttercream Cupcake,400,High,false
