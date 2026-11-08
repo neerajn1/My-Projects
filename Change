@@ -2,3 +2,5 @@ git checkout Exercises
 git pull origin Exercises
 git reset --hard HEAD~1
 git push origin Exercises --force
+git commit --amend -m "Add project files"
+git push origin Exercises --force
