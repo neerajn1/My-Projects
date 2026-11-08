@@ -1,0 +1,4 @@
+git checkout Exercises
+git pull origin Exercises
+git reset --hard HEAD~1
+git push origin Exercises --force
